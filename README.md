@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="docs/preview.svg" alt="Island — Dynamic Island для Windows" width="100%">
+<img width="456" height="84" alt="Запись-2026-11-11-072126" src="https://github.com/user-attachments/assets/d32cbf67-3078-4415-99ad-59d8b96528ee" />
 
-# Island
+#
 
 **Dynamic Island для Windows.** Прозрачная пилюля у верхнего края экрана: живые активности, мини-персонаж, стекающие капли — и раскрывающаяся панель с медиаплеером, системным монитором, погодой, таймером фокуса и ассистентом.
 
