@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/preview.svg" alt="Island — Dynamic Island для Windows" width="100%">
+<img width="456" height="84" alt="Запись-2026-11-11-072126" src="https://github.com/user-attachments/assets/ebeddf57-c0d8-4547-9a34-8ed47f5f2457" />
 
 # Island
 
