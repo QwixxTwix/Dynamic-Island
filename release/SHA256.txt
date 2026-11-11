@@ -1,0 +1,11 @@
+da859e963a0df97636a03758440527924b6bb6cf42fa6b1688bdd8f23c7b93e4  island.exe
+
+Island 0.1.0 — портативная сборка для Windows 10/11 x64
+Размер: 6 630 400 байт (6,63 МБ)
+Собран из этого репозитория командой: npm run exe
+
+Проверка в PowerShell:
+    Get-FileHash .\island.exe -Algorithm SHA256
+
+Проверка через certutil:
+    certutil -hashfile island.exe SHA256
